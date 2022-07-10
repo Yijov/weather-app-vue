@@ -1,24 +1,13 @@
 # weather-app-vue
 
-## Project setup
-```
-npm install
-```
+## Funtionality
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- [x] Insert a city name to get the weather
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [x] UI style changes according to the weather.
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [x] connection to esternal api.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Customers page](./src/assets/appviewone.png "image 1")
+![Customers page](./src/assets/appviewtwo.png "image 2")
+![Customers page](./src/assets/appviewthree.png "image 3")
